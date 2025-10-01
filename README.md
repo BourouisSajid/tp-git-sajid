@@ -4,3 +4,4 @@
 - Ligne depuis main
 - Ligne concurrente depuis feature
 Petite MAJ
+Ajout mineur
